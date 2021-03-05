@@ -7,7 +7,7 @@
         "tacticalability":"Smoke Launcher",
         "passiveability":"Double Time",
         "ultimateability":"Rolling Thunder",
-        "image":"https://github.com/jedis19/datajson/blob/main/bang.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/bang.png"
     },
 
     {
@@ -18,7 +18,7 @@
         "tacticalability":"Eye of the Allfather",
         "passiveability":"Tracker",
         "ultimateability":"Beast of the Hunt",
-        "image":"https://github.com/jedis19/datajson/blob/main/blood.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/blood.png"
     },
 
     {
@@ -29,7 +29,7 @@
         "tacticalability":"Nox Gas Trap",
         "passiveability":"Nox Vision",
         "ultimateability":"Nox Gas Greanade",
-        "image":"https://github.com/jedis19/datajson/blob/main/caustic.jpg?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/caustic.jpg"
     },
 
     {
@@ -40,7 +40,7 @@
         "tacticalability":"Surveillance Dron",
         "passiveability":"Neurolink",
         "ultimateability":"Drone EMP",
-        "image":"https://github.com/jedis19/datajson/blob/main/crypto.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/crypto.png"
     },
 
     {
@@ -51,7 +51,7 @@
         "tacticalability":"Dome of Protection",
         "passiveability":"Gun Shield",
         "ultimateability":"Deffensive Bombardment",
-        "image":"https://github.com/jedis19/datajson/blob/main/gibralt.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/gibralt.png"
     },
 
     {
@@ -62,7 +62,7 @@
         "tacticalability":"D.O.C. Heal Drone",
         "passiveability":"Combat Medic",
         "ultimateability":"Care Package",
-        "image":"https://github.com/jedis19/datajson/blob/main/life.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/life.png"
     },
 
     {
@@ -73,7 +73,7 @@
         "tacticalability":"Psyche Out",
         "passiveability":"Now You See Me...",
         "ultimateability":"Life of the Party",
-        "image":"https://github.com/jedis19/datajson/blob/main/mirage.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/mirage.png"
     },
 
     {
@@ -84,7 +84,7 @@
         "tacticalability":"Stim",
         "passiveability":"Swift Mend",
         "ultimateability":"Launch Pad",
-        "image":"https://github.com/jedis19/datajson/blob/main/octane.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/octane.png"
     },
 
     {
@@ -95,7 +95,7 @@
         "tacticalability":"Grappling Hook",
         "passiveability":"Insider Knowledge",
         "ultimateability":"Zipline Gun",
-        "image":"https://github.com/jedis19/datajson/blob/main/pathfind.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/pathfind.png"
     },
 
     {
@@ -106,7 +106,7 @@
         "tacticalability":"Perimeter Security",
         "passiveability":"Spark of Genius",
         "ultimateability":"Interception Pylon",
-        "image":"https://github.com/jedis19/datajson/blob/main/watson.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/watson.png"
     },
 
     {
@@ -117,7 +117,7 @@
         "tacticalability":"Into the Void",
         "passiveability":"Voices from the Void",
         "ultimateability":"Dimensional Rift",
-        "image":"https://github.com/jedis19/datajson/blob/main/wraith.png?raw=true"
+        "image":"https://raw.githubusercontent.com/jedis19/datajson/main/wraith.png"
     }
 
 
