@@ -1,0 +1,125 @@
+[
+    {
+        "name":"Bangalore",
+        "realname":"Anita Williams",
+        "age":"38",
+        "homeplanet":"Gridiron",
+        "tacticalability":"Smoke Launcher",
+        "passiveability":"Double Time",
+        "ultimateability":"Rolling Thunder",
+        "image":""
+    },
+
+    {
+        "name":"BloodHound",
+        "realname":"Unknown",
+        "age":"Unknown",
+        "homeplanet":"Talos",
+        "tacticalability":"Eye of the Allfather",
+        "passiveability":"Tracker",
+        "ultimateability":"Beast of the Hunt",
+        "image":""
+    },
+
+    {
+        "name":"Custic",
+        "realname":"Alexander Nox",
+        "age":"48",
+        "homeplanet":"Gaea",
+        "tacticalability":"Nox Gas Trap",
+        "passiveability":"Nox Vision",
+        "ultimateability":"Nox Gas Greanade",
+        "image":""
+    },
+
+    {
+        "name":"Crypto",
+        "realname":"Tae Joon Park",
+        "age":"31",
+        "homeplanet":"Gaea",
+        "tacticalability":"Surveillance Dron",
+        "passiveability":"Neurolink",
+        "ultimateability":"Drone EMP",
+        "image":""
+    },
+
+    {
+        "name":"Gibraltar",
+        "realname":"Makoa Gibraltar",
+        "age":"30",
+        "homeplanet":"Solace",
+        "tacticalability":"Dome of Protection",
+        "passiveability":"Gun Shield",
+        "ultimateability":"Deffensive Bombardment",
+        "image":""
+    },
+
+    {
+        "name":"Lifeline",
+        "realname":"Ajay Che",
+        "age":"24",
+        "homeplanet":"Psamathe",
+        "tacticalability":"D.O.C. Heal Drone",
+        "passiveability":"Combat Medic",
+        "ultimateability":"Care Package",
+        "image":""
+    },
+
+    {
+        "name":"Mirage",
+        "realname":"Elliot Witt",
+        "age":"30",
+        "homeplanet":"Solace",
+        "tacticalability":"Psyche Out",
+        "passiveability":"Now You See Me...",
+        "ultimateability":"Life of the Party",
+        "image":""
+    },
+
+    {
+        "name":"Octane",
+        "realname":"Octavio Silva",
+        "age":"24",
+        "homeplanet":"Psamathe",
+        "tacticalability":"Stim",
+        "passiveability":"Swift Mend",
+        "ultimateability":"Launch Pad",
+        "image":""
+    },
+
+    {
+        "name":"PathFinder",
+        "realname":"MRVN",
+        "age":"He really wants to know too",
+        "homeplanet":"He's trying to find out!",
+        "tacticalability":"Grappling Hook",
+        "passiveability":"Insider Knowledge",
+        "ultimateability":"Zipline Gun",
+        "image":""
+    },
+
+    {
+        "name":"Wattson",
+        "realname":"Natalie Paquette",
+        "age":"21",
+        "homeplanet":"Solace",
+        "tacticalability":"Perimeter Security",
+        "passiveability":"Spark of Genius",
+        "ultimateability":"Interception Pylon",
+        "image":""
+    },
+
+    {
+        "name":"Wraith",
+        "realname":"Renee Blasey",
+        "age":"32",
+        "homeplanet":"Typhon",
+        "tacticalability":"Into the Void",
+        "passiveability":"Voices from the Void",
+        "ultimateability":"Dimensional Rift",
+        "image":""
+    }
+
+
+
+]
